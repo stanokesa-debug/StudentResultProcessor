@@ -91,7 +91,7 @@ You can download the project directly from GitHub or clone it using Git.
 Run the following command:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+https://github.com/stanokesa-debug/StudentResultProcessor
 ```
 
 Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
